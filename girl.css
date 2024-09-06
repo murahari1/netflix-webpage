@@ -1,0 +1,246 @@
+*{
+    margin: 0px;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.daddy{
+    background-image: url("background\ image.png");
+}
+.navbar{
+    height: 120px;
+    padding-left:140px;
+    padding-right: 140px;
+}
+header{
+    width: 899.2px;
+    height: 80px;
+}
+.Netflix{
+    width: 148px;
+    height: 40px;
+    position: relative;
+    top: 20px;
+}
+.lang{
+    position: relative;
+    left: 1030px;
+    bottom: 10px;
+}
+.language{
+    position: relative;
+    right: 3px;
+    border-radius: 5px;
+    width: 120.4px;
+    height: 32px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.signin{
+    border: none;
+    width: 70.99px;
+    height: 32px;
+    border-radius: 4px;
+    background-color: red;
+    color: white;
+}
+.signin:hover{
+    background-color: brown;
+}
+.middlepart{
+    height: 567px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    color: white;
+    text-align: center;
+    justify-items: center;
+}
+.bold{
+    color: white;
+    width: 600px;
+    height: 182.4px;
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+h1{
+    font-size: 56px;
+    font-style: italic;
+    font-weight: bolder;
+}
+input{
+    width: 400px;
+    height: 56px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    border: 0.056px solid white;
+}
+#price{
+    font-size: 20px;
+    font-weight: bolder;
+}
+h3{
+    font-size: 16px;
+    position: relative;
+    top: 100px;
+}
+.email{
+    position: relative;
+    top: 110px;
+}
+.submitbutton{
+    width: 210px;
+    height: 56px;
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+.submitbutton:hover{
+    background-color: brown;
+}
+.background{
+    position: relative;
+    top: 30px;
+    background-color: black;
+    padding-left: 160px;
+    padding-right: 160px;
+    height: 370.4;
+    margin: 0px 0px 0px;
+}
+h2{
+    font-size: 24px;
+    color: white;
+    font-weight:bolder;
+}
+.region{
+    position: relative;
+    top: 10px;
+}
+.india{
+    background-color: black;
+    color: white;
+    padding: 8px 36px 8px 12px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+.movies{
+    background-color: black;
+    color: white;
+    padding: 8px 36px 8px 12px;
+    position: relative;
+    left: 15px;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 20px;
+}
+img{
+    width:auto;
+    height:auto;
+    border:none;
+    border-radius: 5px;
+    
+}
+img:hover{
+    border: 2px solid white;
+}
+.more{
+    padding-left: 160px;
+    padding-right: 160px; 
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: black;
+    position: relative;
+    top: 40px;
+}
+.boxes{
+    height: 391.2px;
+    position: relative;
+    top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.reason{
+    position: relative;
+    top: 20px;
+}
+.box{
+    width: 233px;
+    height: 233px;
+    position: relative;
+    top: 30px;
+    border-radius: 5px;
+    background-color: #130706;
+    padding: 24px 16px 128px;
+}
+h4{
+    font-size: 24px;
+}
+p{
+    font-size: 16px;
+    position: relative;
+    top: 15px;
+}
+.questions{
+    padding-left: 160px;
+    padding-right: 160px;
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 100px;
+}
+.box1{
+    width: 980px;
+    height: 50px;
+    padding: 24px;
+    color: white;
+    background-color: #808080;
+    font-size: 24px;
+    gap: 5px;
+    position: relative;
+    top: 15px;
+    border: 5px solid black;
+}
+#hello{
+    font-size: 24px;
+}
+.last{
+    padding-left: 160px;
+    padding-right: 160px;
+    position: relative;
+    top: 80px;
+    color: white;
+    text-align: center;
+    justify-items: center;
+}
+.email2{
+    position: relative;
+    top: 110px;
+}
+.submitbutton2{
+    width: 210px;
+    height: 56px;
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+.submitbutton2:hover{
+    background-color: brown;
+}
